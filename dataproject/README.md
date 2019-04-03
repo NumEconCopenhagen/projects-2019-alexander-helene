@@ -5,10 +5,12 @@ We have used data from the World Bank Development Indicators. The data set consi
 We have structured the data and applied some descriptive calculaltions. Finally we have presented the data in some graphs. 
 
 To do:
-Har vi uoloadet det rigtigt?
+Har vi uploadet det rigtigt? Ja det har vi 
 
-Hjælp til at beregne total percentage change
+Hjælp til at beregne total percentage change JA
 
 Lav figur
+
+
 
 
