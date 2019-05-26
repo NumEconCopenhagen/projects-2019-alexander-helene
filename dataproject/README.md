@@ -4,7 +4,6 @@ We have used data from the World Bank Development Indicators. The data set consi
 
 We have structured the data and applied some descriptive calculaltions. Finally we have presented the data in some graphs. 
 
-Alexander Teisen kvf847 og Helene Jacobsen
 
 
 
