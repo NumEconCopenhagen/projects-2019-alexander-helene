@@ -1,0 +1,28 @@
+Group name: alexander-helene
+Group members: kfv808 and kvf847
+
+This portfolio contains the following:
+
+1. Data project
+2. Model project
+3. Exam project
+	i. Human capital accumulation
+	ii. AS-AD model 
+	iii. Exchange economy
+4. Feedback list
+
+1. 
+The data project investigates the relationsship between energy use and GDP per capita in South America. We import data data from the World Bank developing indicators and present our analysis visually.
+The project consists of the Jupyter notebook ‘Southamerica_energy_use’ and a README.md file with further description of the data project.
+
+2. 
+The model project aims to see how different information given to the bidders affect the expected price of the auction. Further we will investigate to which degree bidders risk-aversion affect the expected price
+The portfolio consists of Jupyter notebook ‘Modelproject.ipynb’ and a README.md file with further description of the model project.
+
+3. 
+The exam project is our answers to the exam paper. We have solved 3 questions regarding human capital accumulation, the AS-AD model and an exchange economy.  
+The exam project consists of a Jupyter Notebook ‘bla’ and a README.md file.
+
+4. The Feedback.txt file contains a list of the groups that each member in our group have given peer feedback to. Furthermore it has links to the issues at GitHub. 
+
+It is relevant to have the newest version of scipy to run the projects.
